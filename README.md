@@ -32,7 +32,7 @@ NOTE: The release automation workflow is provided as a starter workflow. You can
 />
 </p>
 
-## OpenSQL Branch Policy
+## Tibero DBaaS Branch Policy
 <p align="center">
 <img
     src="/branch_policy.png"
@@ -63,7 +63,7 @@ You must use specific branch name prefix for your pull request. Here are the pre
     - "gh-action"
 - Any other branch name prefix will be blocked by the required checks
 
-## OpenSQL Version Policy
+## Tibero DBaaS Version Policy
 ### Semantic Versioning
 - We follow [semantic versioning](https://semver.org/) with a slight customization
 ```
